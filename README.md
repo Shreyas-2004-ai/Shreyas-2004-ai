@@ -18,7 +18,7 @@ Backend: Node.js, Firebase, MySQL
 Game Development: Unreal Engine, Blender
 Cross-Platform Development: Flutter
 📫 Reach me at:
-Email: shreyasssanil2004@gmail.com
+Email: shreyasssanil62@gmail.com
 
 🛠️ Tech Stack
 
@@ -46,7 +46,7 @@ Tailwind CSS
 Bootstrap
 💼 Connect with Me
 
-📧 Email: shreyasssanil2004@gmail.com
+📧 Email: shreyasssanil62@gmail.com
 🌐 GitHub: Shreyas S Sanil's GitHub
 
 🎯 My Vision
