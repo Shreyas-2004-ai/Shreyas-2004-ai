@@ -1,55 +1,128 @@
-💫 Hi, I'm Shreyas S Sanil 👋
-🚀 A Passionate Computer Science Engineering Student from MIT Kundapura
+# 👋 Welcome to My Digital Universe
 
-🌟 About Me
-I'm a third-year Computer Science Engineering student with a strong passion for software development. I have a keen interest in full-stack development, game development, and 3D modeling. I love exploring new technologies, building engaging projects, and continuously learning new skills to stay ahead in the tech world.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Cloud+Enthusiast;Building+the+Future%2C+One+Line+at+a+Time" alt="Typing SVG" />
+</div>
 
-🔭 Currently working on:
-StreamVerse - A dynamic movie and TV shows platform built with React.js, Redux-Toolkit, and Node.js.
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+</div>
 
-🌱 Currently Learning:
+## 🚀 About Me
 
-Unreal Engine and Blender for immersive game development and 3D modeling.
-Leveraging Canva for designing visually appealing UI assets and banners.
-💬 Ask me about:
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Future Web Developer & Cloud Enthusiast"
+        self.location = "Somewhere in the Cloud ☁️"
+        self.current_focus = ["Web Development", "AWS Cloud", "AI Tools"]
+        self.passion = ["Football ⚽", "Gaming 🎮", "Design 🎨"]
+        self.motto = "Exploring today, building tomorrow"
+    
+    def get_daily_routine(self):
+        return [
+            "☕ Coffee + Code",
+            "🔍 Explore new AI tools", 
+            "⚽ Football break",
+            "🎮 Gaming session",
+            "🔄 Repeat"
+        ]
+```
 
-Frontend: React.js, JavaScript, Tailwind CSS
-Backend: Node.js, Firebase, MySQL
-Game Development: Unreal Engine, Blender
-Cross-Platform Development: Flutter
-📫 Reach me at:
-Email: shreyasssanil62@gmail.com
+## 🛠️ Tech Arsenal
 
-🛠️ Tech Stack
+<div align="center">
 
-Languages & Frameworks:
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-JavaScript
-React.js
-Node.js
-Java
-Flutter
-Backend & Tools:
+### 🌐 Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-Firebase
-MySQL
-Git
-Game Development & 3D Modeling:
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
-Unreal Engine
-Blender
-Design:
+### 🗄️ Database & Tools
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-Canva
-Figma
-Tailwind CSS
-Bootstrap
-💼 Connect with Me
+### 🎨 Design & Content
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 
-📧 Email: shreyasssanil62@gmail.com
-🌐 GitHub: Shreyas S Sanil's GitHub
+### 🔍 Network & Analysis
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-🎯 My Vision
-I am passionate about creating impactful software solutions. My focus lies in problem-solving, crafting innovative designs, and delivering user-centric applications. As a dedicated learner, I aspire to push boundaries and create a brighter future with technology.
+</div>
 
-Let’s build the future together! 🚀
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-2004-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-2004-ai&layout=compact&langs_count=8&theme=tokyonight"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-2004-ai&theme=tokyonight&hide_border=false" />
+</div>
+
+## 🐍 Contribution Snake
+
+<!-- You'll need to set up GitHub Actions for this - I can help you with that separately -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="600" alt="Coding GIF" />
+</div>
+
+## 📈 Coding Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-2004-ai&theme=tokyo-night&hide_border=true&area=true" />
+</div>
+
+## 🎯 Current Mission
+
+- 🌱 Deep diving into **AWS Cloud Services**
+- 🔍 Exploring cutting-edge **AI Tools**
+- 💡 Building responsive **Web Applications**
+- 🏗️ Architecting scalable **Cloud Solutions**
+
+## 🎮 When I'm Not Coding
+
+```javascript
+const lifeBalance = {
+    football: "Scoring goals on the field ⚽",
+    gaming: "Conquering virtual worlds 🎮", 
+    design: "Creating visual masterpieces 🎨",
+    ai_exploration: "Discovering tomorrow's tools 🤖"
+};
+```
+
+## 🌐 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-linkedin)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://your-portfolio.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+  
+  **"The best way to predict the future is to create it"**
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Shreyas-2004-ai&color=blueviolet&style=for-the-badge)
+</div>
