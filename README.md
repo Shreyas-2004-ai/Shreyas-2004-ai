@@ -64,30 +64,6 @@ class Developer:
 
 </div>
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Shreyas-2004-ai&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreyas-2004-ai&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreyas-2004-ai&theme=tokyonight&hide_border=false" />
-</div>
-
-## 🐍 Contribution Snake
-
-<!-- You'll need to set up GitHub Actions for this - I can help you with that separately -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="600" alt="Coding GIF" />
-</div>
-
-## 📈 Coding Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shreyas-2004-ai&theme=tokyo-night&hide_border=true&area=true" />
-</div>
-
 ## 🎯 Current Mission
 
 - 🌱 Deep diving into **AWS Cloud Services**
