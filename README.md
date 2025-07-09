@@ -14,7 +14,7 @@
 # 🛠️ Languages & Tools:
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white](https://img.icons8.com/?size=96&id=x7XMNGh2vdqA&format=png)" alt="Tailwind CSS" />
+  <img src="https://www.bing.com/images/search?view=detailV2&ccid=J85EtBLS&id=02349434629DEC0DE852820088CE4922E36F6415&thid=OIP.J85EtBLS9adCNk-khVGpeQHaDC&mediaurl=https%3a%2f%2fimage.pngaaa.com%2f388%2f3920388-middle.png&exph=370&expw=900&q=tailwind+css+backround+removed+logo&simid=608014164498456146&FORM=IRPRST&ck=929A7D91BAAE9BECB56EE8CAAC5A7771&selectedIndex=1&itb=0" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
