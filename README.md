@@ -8,26 +8,6 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 </div>
 
-## 🚀 About Me
-
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Future Web Developer & Cloud Enthusiast"
-        self.location = "Somewhere in the Cloud ☁️"
-        self.current_focus = ["Web Development", "AWS Cloud", "AI Tools"]
-        self.passion = ["Football ⚽", "Gaming 🎮", "Design 🎨"]
-        self.motto = "Exploring today, building tomorrow"
-    
-    def get_daily_routine(self):
-        return [
-            "☕ Coffee + Code",
-            "🔍 Explore new AI tools", 
-            "⚽ Football break",
-            "🎮 Gaming session",
-            "🔄 Repeat"
-        ]
-```
 
 ## 🛠️ Tech Arsenal
 
