@@ -1,7 +1,7 @@
 # 👋 Welcome to My Digital Universe
 
 <div align="center">
-  <img src="[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Cloud+Enthusiast;Code+%E2%80%A2+Create+%E2%80%A2+Deploy](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)" alt="Typing SVG" />
+  <img src="[[https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Web+Developer+%7C+Cloud+Enthusiast;Code+%E2%80%A2+Create+%E2%80%A2+Deploy](https://img.icons8.com/?size=100&id=x7XMNGh2vdqA&format=png&color=000000)](https://th.bing.com/th/id/OIP.J85EtBLS9adCNk-khVGpeQHaDC?w=331&h=143&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3)" alt="Typing SVG" />
 </div>
 
 <div align="center">
